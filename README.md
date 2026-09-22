@@ -1,4 +1,4 @@
-# Hello World, I'm Helô, be very welcome
+# Hello World, I'm Heloísa, be very welcome
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=heloisa19mh&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisa19mh&theme=tokyonight" />
