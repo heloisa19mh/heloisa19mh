@@ -1,8 +1,8 @@
 # Hello World, I'm Heloísa, be very welcome
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heloisa19mh&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heloisa19mh&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=heloisa19mh&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisa19mh&theme=tokyonight" />
 </p>
 
 <p align="center">
